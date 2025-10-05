@@ -10,6 +10,7 @@ class Arreys
 		int s=sc.nextInt();
 		
 		int arr[]=new int[s];
+		System.out.println("enter numbers  :");
 	
 		for (int i=0;i<arr.length;i++)
 		{
